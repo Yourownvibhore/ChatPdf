@@ -1,0 +1,12 @@
+langchain-huggingface
+PyPDF2
+python-dotenv
+streamlit
+streamlit_extras
+huggingface_hub
+accelerate
+bitsandbytes
+langchain-community
+faiss-cpu
+InstructorEmbedding
+sentence_transformers
