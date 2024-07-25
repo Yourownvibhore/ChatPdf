@@ -1,6 +1,10 @@
 # ChatPDF LLM App
 
-Here you can upload your PDF files and ask questions from the PDF files.We will provide you the most relevant answer from the PDF files. You can also upload multiple files at once
+Here you can upload your PDF files and ask questions from the PDF files. We will provide you the most relevant answer from the PDF files. You can also upload multiple files at once
+The app is live at https://huggingface.co/spaces/yourownvibhore/Chatpdf
+
+![image](https://github.com/user-attachments/assets/c2f729f3-cd53-4116-9e51-08f9fe1e2e7b)
+
 
 ## Features
 
